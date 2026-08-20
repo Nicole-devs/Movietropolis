@@ -11,7 +11,7 @@ A sleek, modern web application for streaming movies and TV shows. This app fetc
 
 ## Live Demo
 
-[Check out the Movietropolis Movie App](https://link.com)
+[Check out the Movietropolis App](https://link.com)
 
 ## Installation
 
